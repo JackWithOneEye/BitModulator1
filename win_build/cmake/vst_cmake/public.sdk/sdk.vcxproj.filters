@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\common\pluginview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\main\pluginfactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\main\moduleinit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\stringconvert.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\vst2persistence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstaudioeffect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstbus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstcomponent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstcomponentbase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vsteditcontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstinitiids.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstnoteexpressiontypes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstparameters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstrepresentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\common\pluginview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\main\pluginfactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\main\moduleinit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\processcontextrequirements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\ringbuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\stringconvert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\vst2persistence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstaudioeffect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstbus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstbypassprocessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstcomponent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstcomponentbase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vsteditcontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vsteventshelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vsthelpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstnoteexpressiontypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstparameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstrepresentation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C240B66A-A7D6-3ED5-9B3C-5DAE28AD388D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2ABFE77A-0B03-36A4-9098-A5B52234E67D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

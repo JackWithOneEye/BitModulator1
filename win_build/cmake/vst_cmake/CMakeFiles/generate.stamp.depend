@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakePrintHelpers.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_AAXSupport.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_AddCommonOptions.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_AddSMTGLibrary.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_AddVST3Library.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_AddVST3Options.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_Bundle.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_CodeSign.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_ConfigureCmakeGenerator.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_CoreAudioSupport.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_DetectPlatform.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_ExportedSymbols.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_Global.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_PlatformIOS.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_PlatformToolset.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_Platform_Windows.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_PrefixHeader.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_SetDebugExecutable.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_SetupVST3LibraryDefaultPath.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_UniversalBinary.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_VstGuiSupport.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/cmake/vst_cmake/CMakeLists.txt

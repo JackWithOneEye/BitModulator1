@@ -1,0 +1,17 @@
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/CMakeFiles/vstgui_support.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/CMakeFiles/ALL_BUILD.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/pluginterfaces/CMakeFiles/pluginterfaces.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/pluginterfaces/CMakeFiles/ALL_BUILD.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/base/CMakeFiles/base.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/base/CMakeFiles/ALL_BUILD.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/public.sdk/CMakeFiles/sdk_common.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/public.sdk/CMakeFiles/sdk.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/public.sdk/CMakeFiles/sdk_hosting.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/public.sdk/CMakeFiles/ALL_BUILD.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/public.sdk/samples/vst-hosting/validator/CMakeFiles/validator.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/project_source/cmake/vst_cmake/CMakeFiles/BitModulator1_VST.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/vstgui4/vstgui/lib/CMakeFiles/vstgui.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/vstgui4/vstgui/uidescription/CMakeFiles/vstgui_uidescription.dir
+C:/Users/sr-ho/Documents/ALL_SDK/myprojects/BitModulator1/win_build/cmake/vst_cmake/vstgui4/vstgui/tools/uidesccompressor/CMakeFiles/uidesccompressor.dir

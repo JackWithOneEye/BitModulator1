@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckIncludeFile.cxx.in
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckIncludeFileCXX.cmake
+C:/Users/sr-ho/Documents/ALL_SDK/VST_SDK/VST3_SDK/pluginterfaces/CMakeLists.txt

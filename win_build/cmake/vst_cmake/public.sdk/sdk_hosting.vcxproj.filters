@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\connectionproxy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\eventlist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\hostclasses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\module.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\parameterchanges.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\pluginterfacesupport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\processdata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\stringconvert.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstinitiids.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\connectionproxy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\eventlist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\hostclasses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\module.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\parameterchanges.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\pluginterfacesupport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\processdata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\optional.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\stringconvert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\uid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\versionparser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C240B66A-A7D6-3ED5-9B3C-5DAE28AD388D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2ABFE77A-0B03-36A4-9098-A5B52234E67D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

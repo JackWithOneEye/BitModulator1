@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\PluginKernel\pluginbase.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\PluginKernel\plugincore.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\PluginKernel\plugingui.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\PluginKernel\pluginparameter.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\vst_source\factory.cpp">
+      <Filter>VST3Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\vst_source\customparameters.cpp">
+      <Filter>VST3Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\vst_source\vst3plugin.cpp">
+      <Filter>VST3Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\CustomControls\customcontrols.cpp">
+      <Filter>CustomVSTGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\CustomControls\customviews.cpp">
+      <Filter>CustomVSTGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstsinglecomponenteffect.cpp">
+      <Filter>VST3SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\main\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\PluginKernel\guiconstants.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\PluginKernel\pluginbase.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\PluginKernel\plugincore.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\PluginKernel\plugindescription.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\PluginKernel\plugingui.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\PluginKernel\pluginparameter.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\PluginKernel\pluginstructures.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\vst_source\customparameters.h">
+      <Filter>VST3Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\vst_source\channelformats.h">
+      <Filter>VST3Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\vst_source\vst3plugin.h">
+      <Filter>VST3Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\CustomControls\atomicops.h">
+      <Filter>CustomVSTGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\CustomControls\customcontrols.h">
+      <Filter>CustomVSTGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\CustomControls\readerwriterqueue.h">
+      <Filter>CustomVSTGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\source\CustomControls\customviews.h">
+      <Filter>CustomVSTGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstsinglecomponenteffect.h">
+      <Filter>VST3SDK</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\cmake\vst_cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\resources\PluginGUI.uidesc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\project_source\win\vst\PluginGUIMain.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CustomVSTGUI">
+      <UniqueIdentifier>{63626DDD-6288-338B-BE80-12322E8FBF2F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PluginKernel">
+      <UniqueIdentifier>{C7D54F3C-D0A8-3836-B496-1C9D51DB9EB6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2ABFE77A-0B03-36A4-9098-A5B52234E67D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VST3Core">
+      <UniqueIdentifier>{0CCA9F32-091A-36CD-8A9D-4BA33DADB6EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VST3SDK">
+      <UniqueIdentifier>{AEBC05D2-0CBF-3F6E-95CA-ADDEAE2EB3A1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

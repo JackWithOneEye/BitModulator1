@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\BitModulator1\win_build\CMakeFiles\084cc7fb1e1a6f59265d1d487743d290\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5F665474-C4C7-3871-98C8-8D587A082ECF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
